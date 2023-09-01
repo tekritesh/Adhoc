@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "llming"
+version = "0.1.0"
+description = ""
+authors = ["tekritesh <ritesh.tekriwal03@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+chromadb = "^0.4.8"
+openai = "^0.28.0"
+langchain = "^0.0.278"
+bs4 = "^0.0.1"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.25.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
