@@ -2705,4 +2705,4 @@ multidict = ">=4.0"
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "62afa1c1dd7c883d1042a9bb81de7ae7209dbd834dd0efb6c1907ea0536a4c87"
+content-hash = "2f8a97014fdf2f987c35c7a2f34c46b90dbca1580a8a9ae4e191cfc58fd7ca87"
