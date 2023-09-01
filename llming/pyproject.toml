@@ -12,6 +12,7 @@ openai = "^0.28.0"
 langchain = "^0.0.278"
 bs4 = "^0.0.1"
 python-dotenv = "^1.0.0"
+tiktoken = "^0.4.0"
 
 
 [tool.poetry.group.dev.dependencies]
