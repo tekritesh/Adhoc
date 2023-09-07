@@ -1,0 +1,3 @@
+[submodule "llming/privateGPT"]
+	path = llming/privateGPT
+	url = https://github.com/imartinez/privateGPT.git
