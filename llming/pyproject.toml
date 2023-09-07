@@ -9,10 +9,15 @@ readme = "README.md"
 python = "^3.10"
 chromadb = "^0.4.8"
 openai = "^0.28.0"
-langchain = "^0.0.278"
 bs4 = "^0.0.1"
 python-dotenv = "^1.0.0"
-tiktoken = "^0.4.0"
+pypdf = "^3.15.4"
+unstructured = {extras = ["all-docs"], version = "^0.10.11"}
+pdf2image = "^1.16.3"
+pdfminer = "^20191125"
+llvmlite = "^0.40.1"
+langchain = {extras = ["llms"], version = "^0.0.279"}
+hnswlib = "^0.7.0"
 
 
 [tool.poetry.group.dev.dependencies]
