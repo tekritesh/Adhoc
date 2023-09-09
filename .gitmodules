@@ -1,3 +1,4 @@
 [submodule "llming/privateGPT"]
 	path = llming/privateGPT
 	url = https://github.com/imartinez/privateGPT.git
+	branch = 3f5f82db5c42b4ff625e58eebfd4ea3ba99f4634
